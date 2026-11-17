@@ -1,0 +1,13 @@
+﻿id,avaliacao,sentimento,temas,sentimento_esperado
+28,"Meu pedido atrasou, mas o suporte resolveu tudo num piscar de olhos!!! Não acredito que foram tão rápidos!!!",misto,"entrega, atendimento",positivo
+104,O prato chegou exatamente como estava descrito no cardápio. Não houve alterações nos ingredientes. A apresentação correspondeu às fotos disponíveis.,positivo,comida,neutro
+105,Utilizei o aplicativo para realizar o pedido e a navegação ocorreu sem interrupções. O processo de pagamento foi concluído normalmente. Não encontrei falhas ou mensagens de erro durante a operação.,positivo,aplicativo/pagamento,neutro
+106,"Cheguei, a embalagem era só um papel simples, nada de luxo, mas tudo chegou intacto.",misto,"embalagem, entrega",neutro
+107,entregou no horario previsto sem problemas,positivo,entrega,neutro
+109,Chegou no horário previsto! Sem atrasos! Tudo conforme o esperado!,positivo,entrega,neutro
+110,"O pedido foi entregue dentro do prazo estipulado, a apresentação da embalagem foi padrão e a refeição apresentava qualidade mediana, não se destacando nem positivamente nem negativamente.",positivo,"entrega, embalagem, comida",neutro
+112,"O prato chegou exatamente como estava descrito no cardápio, sem diferenças.",positivo,"comida, entrega",neutro
+113,"Cara, falei com o chat, me mandaram a resposta padrão rapidinho, tudo certo.",positivo,atendimento,neutro
+116,"Usei o app de delivery hoje, fiz o pedido de pizza e a comida chegou sem nenhum problema, tudo funcionou como esperado.",positivo,"entrega, comida, aplicativo/pagamento",neutro
+118,"Utilizei o aplicativo normalmente, selecionei o prato desejado e recebi a entrega dentro do prazo estabelecido, sem incidentes.",positivo,"entrega, aplicativo/pagamento",neutro
+120,"Mano, o delivery chegou na hora certa, sem stress, foi normal.",positivo,entrega,neutro

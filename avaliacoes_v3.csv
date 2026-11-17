@@ -1,0 +1,121 @@
+﻿id,avaliacao,sentimento_esperado
+1,"Fiquei impressionado com a qualidade dos ingredientes, tudo muito fresco e saboroso, e ainda a embalagem chegou impecável, sem nenhum amassado, o que fez a refeição ainda mais agradável.",positivo
+2,"Chegou antes do previsto, tudo perfeito.",positivo
+3,pedido chegou certinho no horario esperado tudo muito bem embalado,positivo
+4,"Mesmo com a chuva, o entregador encontrou o endereço sem dificuldades.",positivo
+5,comida chegou quente no ponto perfeito sem demora,positivo
+6,"Poxa, que surpresa boa! O entregador me avisou que já estava chegando e ainda foi super gentil, parece que ele tem até licença para ser educado. Que eficiência!",positivo
+7,"Fiquei satisfeito em poder acompanhar o pedido pelo mapa, foi muito útil saber exatamente onde estava. Tudo tranquilo e sem imprevistos.",positivo
+8,"Não dá pra acreditar, mas o pedido chegou certinho e na hora marcada! Sem atrasos, sem erro nenhum. Que alívio!",positivo
+9,"Mano, o tempero tava demais! Aquele toque que faz a diferença, sem frescura. Curti demais, já tô pensando no próximo pedido.",positivo
+10,"Cara, a porção foi farta pra caramba! Chegou tudo bem na hora e sem erro nenhum. Deu pra comer e ainda sobrou. Muito bom!",positivo
+11,entrega rapidinha tudo bem embalado e organizado,positivo
+12,Que entrega incrível!! A comida chegou quente pra caramba!!,positivo
+13,"Massa demais, ainda veio com talher e guardanapo, curti pra caramba!",positivo
+14,entregou rapidinho talheres e guardanapo tudo no pacote,positivo
+15,"O entregador avisou que tava chegando, foi bem gente boa, chegou na hora e ainda trocou uma ideia",positivo
+16,pedi sushi ontem a comida chegou quente na embalagem muito bem feita,positivo
+17,"Cara, consegui o reembolso rapidinho, nada de burocracia, foi bem tranquilo, valeu!",positivo
+18,"Fiquei satisfeito com o desconto, o cupom foi aceito sem problemas e a compra seguiu normal.",positivo
+19,O tempero estava incrível!,positivo
+20,"Mano, frete grátis salvou a conta, curti demais!",positivo
+21,"O pagamento via Pix foi instantâneo e o pedido chegou exatamente como esperado, muito obrigado pela agilidade e eficiência.",positivo
+22,"Fiquei impressionado ao receber meu pedido 15 minutos antes do horário estimado; o entregador chegou sorrindo, e a comida ainda estava quente, realmente superou minhas expectativas.",positivo
+23,"Porção enorme, deu pra comer duas vezes!!! Não cabe nem na caixa, que delícia!!!",positivo
+24,Atendente muito educado resolveu tudo rapidinho.,positivo
+25,"Mano, o app é bem de boa, dá pra pedir sem stress, tudo na mão e sem enrolação.",positivo
+26,"Cara, recebi a pizza ainda bem quentinha, a embalagem fez o trabalho perfeito, nem precisou reaquecer!",positivo
+27,"Hoje eu peguei a promoção de combo duplo e fiquei surpreso com o preço, parecia até que eu estava pagando metade do valor normal, então decidi fazer o pedido e ainda ganhei uma sobremesa extra, foi uma experiência bem satisfatória.",positivo
+28,"Meu pedido atrasou, mas o suporte resolveu tudo num piscar de olhos!!! Não acredito que foram tão rápidos!!!",positivo
+29,"Utilizei o cupom de desconto que estava na campanha e o valor foi abatido corretamente, agradeço a transparência e a facilidade no processo.",positivo
+30,"Chegou antes do horário previsto, tudo certo.",positivo
+31,"Cara, eu paguei o preço de um prato cheio e recebi quase nada, parecia um aperitivo de criança. Não tem como aceitar isso, ainda mais quando a gente confia no app pra jantar bem.",negativo
+32,"Solicitei o reembolso há três semanas e nada foi creditado na conta. Fiquei ligando, enviando e-mails, mas a empresa continua ignorando. Até hoje não vejo nenhum sinal de solução.",negativo
+33,"Mano, deixei mensagem no chat e o bicho sumiu, nada de resposta, parece até que o atendimento tá de férias.",negativo
+34,"Marcaram como entregue, mas nada chegou.",negativo
+35,"Poxa, quando fui fechar o pedido apareceu uma taxa que não tinha nada a ver, nem vi no cardápio, ficou na cara que é pegadinha.",negativo
+36,"Cara, eu não aguento mais esse fiasco: o atendente não resolveu nada, só me passou de um setor pro outro, e ainda me deixou na mão na hora da entrega. Nunca mais uso esse app.",negativo
+37,"Prezados, gostaria de registrar minha insatisfação com o suporte: após relatar o problema, recebi apenas uma mensagem automática que não trouxe solução alguma. Agradeço a atenção, mas a situação permanece.",negativo
+38,"Reembolso demorou semanas, muito frustrante.",negativo
+39,"Bom dia, venho registrar que o reembolso solicitado ainda não foi concluído após várias semanas, apesar de todos os contatos feitos. Agradeço se puderem verificar e agilizar o processo.",negativo
+40,"Taxa de entrega exorbitante, não vale a pena.",negativo
+41,"Gostaria de manifestar minha insatisfação com a entrega: o prato chegou completamente frio, o que comprometeu a qualidade e o sabor esperados.",negativo
+42,Faltou o refrigerante no meu pedido.,negativo
+43,"Mano, o molho vazou na sacola e bagunçou tudo, que zica!",negativo
+44,Entregador não achou meu endereço e ficou só ligando.,negativo
+45,preco muito alto comparado ao restaurante sem justificativa alguma,negativo
+46,"O aplicativo travou exatamente no momento em que eu tentava concluir o pagamento, o que me impediu de finalizar o pedido. Não consegui nada e tive que desistir.",negativo
+47,cupom nao deu desconto nao aceita nada no app,negativo
+48,atendente nao resolveu e passou meu chamado pra outro varias vezes e ainda nao tem resposta,negativo
+49,"Paguei duas vezes o mesmo pedido, tá me tirando? Já cansei de ter que ficar reclamando de cobrança duplicada, isso é falta de respeito.",negativo
+50,"O delivery chegou atrasado demais e ninguém avisou, fiquei esperando horas sem saber nada, que falta de consideração.",negativo
+51,entregador foi grosso me ignorou e ainda me xingou sem motivo nada de bom,negativo
+52,"Deixou o pedido na portaria errada, tive que ir buscar. Inaceitável.",negativo
+53,A embalagem chegou rasgada!! Que falta de cuidado!!,negativo
+54,"O caixa estava amassado, o alimento chegou comprometido. Gostaria de um reposicionamento.",negativo
+55,"Mano, o ingrediente tava podre, deu ruim no rango, nem dá pra comer, vacilo!",negativo
+56,cartao recusado sem explicacao nada acontece nao consigo pagar meu pedido,negativo
+57,"Prezados, gostaria de registrar minha insatisfação, pois a bebida entregue chegou sem tampa, o que comprometeu a higiene e a qualidade do consumo. Agradeço a atenção e aguardo providências.",negativo
+58,app marcou como entregue mas eu nao recebi nada ainda nao tem explicacao nenhuma,negativo
+59,"Prezados, informo que o atendimento telefônico foi insatisfatório, pois o atendente não solucionou meu problema e ainda me transferiu para outros setores diversas vezes, sem obter resposta. Solicito uma solução adequada.",negativo
+60,entregador nao achou meu endereco ficou ligando sem sucesso nao recebi meu pedido,negativo
+61,"Pô, que absurdo essa taxa de entrega! Tô pagando mais que o prato e ainda me cobram um absurdo. Não dá pra aceitar isso não.",negativo
+62,cartao recusado sem explicacao nada funciona e ainda perco tempo sem saber o que aconteceu,negativo
+63,"Que falta de gosto, parecia água! Não tem tempero nenhum, parece que esqueceram de cozinhar! Que decepção!",negativo
+64,"Embalagem rasgada, comida toda espalhada.",negativo
+65,"Cara, fecha o pedido e de repente aparece uma taxa que não tava nem aí antes, parece pegadinha. Não dá pra confiar.",negativo
+66,"O cupom de desconto funcionou, mas o molho vazou dentro da sacola.",misto
+67,"A porção estava farta e eu até consegui provar de tudo, porém o molho acabou vazando na sacola e bagunçou tudo, o que atrapalhou bastante a refeição.",misto
+68,"Ingredientes frescos, porém o cartão foi recusado sem explicação.",misto
+69,"Reembolso feito sem dificuldade, mas apareceu uma taxa que não estava visível antes de fechar o pedido.",misto
+70,"O cupom de desconto funcionou corretamente; entretanto, não obtive resposta nenhuma ao tentar contato pelo chat.",misto
+71,"Frete grátis ajudou bastante, mas o reembolso demorou semanas.",misto
+72,"A promoção foi boa e o preço justo, porém o pedido atrasou muito e ninguém avisou.",misto
+73,"Tempero muito bom, porção pequena para o valor cobrado.",misto
+74,"A embalagem manteve a comida quente, porém o entregador deixou na portaria errada.",misto
+75,"Chegou tudo certinho e no horário, mas o cartão foi recusado sem explicação.",misto
+76,porção farta mas suporte só mandou mensagem automática,misto
+77,"Mano, o pagamento por pix foi rapidíssimo, mas o atendente não resolveu nada e ficou transferindo o caso várias vezes",misto
+78,"Cara, o entregador avisou que estava chegando e foi super gentil, porém mandaram o prato errado",misto
+79,"Os talheres e guardanapos vieram na entrega, mas ninguém respondeu no chat, mó perrengue",misto
+80,"Talheres e guardanapos incluídos, porém o reembolso demorou semanas",misto
+81,"A embalagem estava bem fechada e organizada, mas a comida chegou fria.",misto
+82,"Mano, o app mostrou o caminho no mapa que ajudou, mas o entregador não achou meu endereço e ficou só ligando.",misto
+83,comida quente e no ponto mas cobram duas vezes,misto
+84,"Talheres e guardanapos vieram, porém faltou um item do pedido.",misto
+85,"Suporte resolveu rápido, porém faltou um item do pedido.",misto
+86,"Acompanhar o pedido no mapa foi útil, consegui me organizar, mas a bebida veio sem tampa, o que acabou estragando o sabor.",misto
+87,"Gostei que talheres e guardanapos foram incluídos, facilitou bastante, porém o prato chegou errado e tive que refazer o pedido.",misto
+88,"O entregador avisou que estava chegando e foi muito gentil, porém o suporte só mandou mensagem automática e não resolveu nada!!",misto
+89,"O tempero estava muito bom, deu aquele toque que eu adoro, mas o cupom não aplicou e acabei pagando a mais, te contei pra você.",misto
+90,"Chegou antes do previsto, o que foi ótimo, mas a caixa estava amassada quando abri.",misto
+91,"A embalagem manteve a comida quente, mas o app travou na hora de pagar.",misto
+92,"O entregador avisou que estava chegando e foi gentil, porém faltou um item do pedido.",misto
+93,"Chegou certinho e no horário, mas a embalagem tava rasgada.",misto
+94,"O entregador achou o endereço fácil mesmo na chuva, mas ninguém respondeu o chat.",misto
+95,"O reembolso foi feito sem dificuldade, porém a bebida veio sem tampa.",misto
+96,"Porção farta, mas o molho vazou dentro da sacola!!! Que frustração!",misto
+97,"A comida chegou quente e no ponto, porém o atendente não resolveu o problema e transferiu várias vezes.",misto
+98,pedido chegou certinho e no horario comida chegou fria,misto
+99,"Promoção boa e preço justo, mas o entregador deixou na portaria errada.",misto
+100,"Tempero muito bom, porém o suporte só mandou mensagem automática.",misto
+101,fui atendido pelo chat respondiam com mensagem padrao e nao tive problema nenhum,neutro
+102,"O atendimento via chat foi realizado com a mensagem padrão, sem ocorrências adicionais.",neutro
+103,"Embalagem simples, nada fora do esperado.",neutro
+104,O prato chegou exatamente como estava descrito no cardápio. Não houve alterações nos ingredientes. A apresentação correspondeu às fotos disponíveis.,neutro
+105,Utilizei o aplicativo para realizar o pedido e a navegação ocorreu sem interrupções. O processo de pagamento foi concluído normalmente. Não encontrei falhas ou mensagens de erro durante a operação.,neutro
+106,"Cheguei, a embalagem era só um papel simples, nada de luxo, mas tudo chegou intacto.",neutro
+107,entregou no horario previsto sem problemas,neutro
+108,"A comida foi entregue dentro do prazo informado. A embalagem era uma caixa de papelão padrão, sem nenhum detalhe extra. Não houve nenhum incidente durante a entrega.",neutro
+109,Chegou no horário previsto! Sem atrasos! Tudo conforme o esperado!,neutro
+110,"O pedido foi entregue dentro do prazo estipulado, a apresentação da embalagem foi padrão e a refeição apresentava qualidade mediana, não se destacando nem positivamente nem negativamente.",neutro
+111,"O preço saiu dentro do que eu esperava pra esse tipo de comida, nada de surpresa.",neutro
+112,"O prato chegou exatamente como estava descrito no cardápio, sem diferenças.",neutro
+113,"Cara, falei com o chat, me mandaram a resposta padrão rapidinho, tudo certo.",neutro
+114,embalagem simples sem nada de mais tudo ok,neutro
+115,"Chegou no horário previsto, nada de especial.",neutro
+116,"Usei o app de delivery hoje, fiz o pedido de pizza e a comida chegou sem nenhum problema, tudo funcionou como esperado.",neutro
+117,pedidi sushi chegou no horario previsto sem atrasos nada de especial,neutro
+118,"Utilizei o aplicativo normalmente, selecionei o prato desejado e recebi a entrega dentro do prazo estabelecido, sem incidentes.",neutro
+119,"Cara, usei o app e a comida chegou exatamente na hora que eu esperava, nada demais, só o básico.",neutro
+120,"Mano, o delivery chegou na hora certa, sem stress, foi normal.",neutro
